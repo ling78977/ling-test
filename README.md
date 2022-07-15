@@ -18,7 +18,7 @@ _🦌 网页小游戏 🥛_
 
 
 
-Github Page:https://github.com/ling78977/ling-test/index.html
+Github Page:https://ling78977.github.io/ling-test/
 
 ## 可选功能
 
