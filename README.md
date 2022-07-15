@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/ling78977/ling-test/blob/master/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="ling-test"></a>
 </p>
 <div align="center">
 
@@ -12,13 +12,13 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
 
-浏览量超10,000,000+
 
-线上版本:https://xingye.me/game/eatkano/index.php
 
-Github Page:https://arcxingye.github.io/EatKano/index.html
+
+
+
+Github Page:https://github.com/ling78977/ling-test/index.html
 
 ## 可选功能
 
